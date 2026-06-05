@@ -4,7 +4,7 @@
 
 ## 🚀 About Me
 
-I'm **Saman**, a dedicated **Full Stack Engineer** with over **7 years of experience** crafting scalable web applications and robust backend systems.
+I'm **Samantha**, a dedicated **Full Stack Engineer** with over **7 years of experience** crafting scalable web applications and robust backend systems.
 
 My expertise spans multiple stacks including **MERN**, **Ruby on Rails**, and **Python-based frameworks** such as **Django** and **FastAPI**.
 
