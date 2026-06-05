@@ -1,7 +1,5 @@
 # 👨‍💻 Saman — Full Stack Engineer (7+ Years)
 
-**Banner · Experience · Stack**
-
 ---
 
 ## 🚀 About Me
